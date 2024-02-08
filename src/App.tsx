@@ -1,6 +1,7 @@
 import React from "react";
-
 import "./App.css";
+import { ToastContainer } from 'react-toastify';
+import 'react-toastify/dist/ReactToastify.css';
 
 function App() {
   return (
@@ -12,7 +13,7 @@ function App() {
         data-offset-top="20"
       >
         <div className="container">
-          <a className="navbar-brand" href="www.google.com">
+          <a className="navbar-brand" href="https://robusoftlimited.github.io/Robusoft/">
             <strong className="text-primary">ROBUSOFT</strong>{" "}
           </a>
           <button
@@ -59,7 +60,13 @@ function App() {
                   Contact
                 </a>
               </li>
+              <li className="nav-item">
+                <a className="nav-link" href="#link">
+                  Links
+                </a>
+              </li>
             </ul>
+            <ToastContainer/>
           </div>
         </div>
       </nav>

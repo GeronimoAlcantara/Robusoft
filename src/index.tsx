@@ -5,10 +5,11 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 import Header from './Header';
 import About from './About';
-import Content from './Content';
-import Feature from './Feature';
+import Mission from './Mission';
+import Portfolio from './Portfolio';
 import Contact from './Contact';
 import Services from './Services';
+import Link from './Link';
 
 const root = ReactDOM.createRoot(
   document.getElementById('root') as HTMLElement
@@ -18,10 +19,11 @@ root.render(
     <App />
     <Header/>
     <About/>
-    <Content/>
+    <Mission/>
     <Services/>
-    <Feature/>
+    <Portfolio/>
     <Contact/>
+    <Link/>
   </React.StrictMode>
 );
 
