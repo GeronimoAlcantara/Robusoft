@@ -4,7 +4,7 @@ import linkedin from "./images/linkedin.jpeg";
 
 function Link() {
 
-  const cv_url='https://docs.google.com/document/d/1tw3jcIqGVt2jOzkyPVOBaw15eL7rJPGV/export?format=docx';
+  const cv_url='https://docs.google.com/document/d/1pJjTW5baVILOp6KX7eu-Xkfvd0gazxSv/export?format=docx';
 
   return (
     <section id="link" className="text-center">
