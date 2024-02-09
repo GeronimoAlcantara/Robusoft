@@ -20,13 +20,13 @@ function Contact() {
   const handleSubmit = (event: any) => {
     event.preventDefault();
     const serviceId = 'service_u7pkdpi';
-    const templateId = 'contact_form';
+    const templateId = 'template_f5mcegh';
     const publicKey = '2Ly9duodSTVpiWVbO';
 
     //send email
     emailjs.sendForm(serviceId, templateId, event.target, publicKey)
       .then((result)=>{
-        toast.success('Message sent. A member of our team will respond asap .');
+        toast.success('Message sent. A member of our team will contact you as soon as possible.');
         //reset form
         setFormData({
           name: '',
