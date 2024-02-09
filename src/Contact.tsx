@@ -19,9 +19,9 @@ function Contact() {
   
   const handleSubmit = (event: any) => {
     event.preventDefault();
-    const serviceId = 'contact_service';
+    const serviceId = 'service_u7pkdpi';
     const templateId = 'contact_form';
-    const publicKey = 'k8xs3nGFk3ZY3ZyEB';
+    const publicKey = '2Ly9duodSTVpiWVbO';
 
     //send email
     emailjs.sendForm(serviceId, templateId, event.target, publicKey)
