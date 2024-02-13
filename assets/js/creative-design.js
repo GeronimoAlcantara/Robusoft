@@ -22,6 +22,7 @@ $(document).ready(function(){
 
             var hash = this.hash;
 
+            alert('Testing');
             $('html, body').animate({
                 scrollTop: $(hash).offset().top
             }, 700, function(){
