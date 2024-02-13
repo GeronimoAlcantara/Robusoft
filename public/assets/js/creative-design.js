@@ -22,7 +22,7 @@ $(document).ready(function(){
 
             var hash = this.hash;
 
-            element.setAttribute('aria-expanded', false);
+            this.element.setAttribute('aria-expanded', false);
 
             $('html, body').animate({
                 scrollTop: $(hash).offset().top
