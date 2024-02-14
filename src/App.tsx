@@ -31,37 +31,37 @@ function App() {
           <div className="collapse navbar-collapse" id="navbarSupportedContent">
             <ul className="navbar-nav ml-auto">
               <li className="nav-item">
-                <a className="nav-link navbar-collapse" href="#home">
+                <a className="nav-link" href="#home">
                   Home
                 </a>
               </li>
               <li className="nav-item">
-                <a className="nav-link navbar-collapse" href="#about">
+                <a className="nav-link" href="#about">
                   About
                 </a>
               </li>
               <li className="nav-item">
-                <a className="nav-link navbar-collapse" href="#content">
+                <a className="nav-link" href="#content">
                   Mission
                 </a>
               </li>
               <li className="nav-item">
-                <a className="nav-link navbar-collapse" href="#services">
+                <a className="nav-link" href="#services">
                   Services
                 </a>
               </li>
               <li className="nav-item">
-                <a className="nav-link navbar-collapse" href="#feature">
+                <a className="nav-link" href="#feature">
                   Portfolio
                 </a>
               </li>
               <li className="nav-item">
-                <a className="nav-link navbar-collapse" href="#contact">
+                <a className="nav-link" href="#contact">
                   Contact
                 </a>
               </li>
               <li className="nav-item">
-                <a className="nav-link navbar-collapse" href="#link">
+                <a className="nav-link" href="#link">
                   Links
                 </a>
               </li>
