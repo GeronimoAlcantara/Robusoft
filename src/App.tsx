@@ -8,7 +8,7 @@ function App() {
     <div className="App">
       <nav
         id="scrollspy"
-        className="navbar page-navbar navbar-dark bg-dark navbar-expand-md stretched-link"
+        className="navbar page-navbar navbar-dark bg-dark navbar-expand-md fixed-top"
         data-spy="affix"
         data-offset-top="20"
       >
