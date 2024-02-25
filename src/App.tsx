@@ -24,6 +24,7 @@ function App() {
             <strong className="text-primary">ROBUSOFT</strong>{" "}
           </a>
           <button
+            onClick={hideNavbar}
             className="navbar-toggler"
             type="button"
             data-toggle="collapse"
@@ -36,7 +37,6 @@ function App() {
           </button>
 
           <div
-            onClick={hideNavbar}
             className={
               isActive
                 ? "collapse navbar-collapse show"
