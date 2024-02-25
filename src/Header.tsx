@@ -7,7 +7,7 @@ function Header() {
         <header id="home" className="header">
         <div className="overlay"></div>
         <div className="header-content">
-            <img src={robuicon} style={{borderRadius: '10%', opacity: '.6'}}  alt="icon" className="mb-3"/>
+            <img src={robuicon} style={{borderRadius: '10%', opacity: '.6', width: '400px', height: '300px'}}  alt="icon" />
         </div>      
     </header>
     );
