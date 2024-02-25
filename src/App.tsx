@@ -40,8 +40,8 @@ function App() {
             onClick={hideNavbar}
             className={
               isActive
-                ? "collapse navbar-collapse"              
-                : "collapse navbar-collapse show"
+                ? "collapse navbar-collapse show"
+                : "collapse navbar-collapse"
             }
             id="navbarSupportedContent"
           >
