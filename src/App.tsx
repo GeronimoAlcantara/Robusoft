@@ -37,10 +37,11 @@ function App() {
           </button>
 
           <div
+            onClick={hideNavbar}
             className={
               isActive
-                ? "collapse navbar-collapse show"
-                : "collapse navbar-collapse"
+                ? "collapse navbar-collapse"              
+                : "collapse navbar-collapse show"
             }
             id="navbarSupportedContent"
           >
