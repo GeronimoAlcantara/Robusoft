@@ -9,7 +9,7 @@ function Link() {
   return (
     <section id="link" className="text-center">
       <div className="container">
-        <h1>About me</h1>
+        <h1>Links</h1>
         <a 
           href="https://ie.linkedin.com/in/geronimo-alcantara-81ab0465"
           target="_blank"
@@ -23,7 +23,7 @@ function Link() {
         </a>
         <h4><i className="ti-download"></i> <a href={cv_url} download="cv.docx">Download CV</a></h4>
       </div>
-      <p className="mt-5">&copy;2024</p>
+      <p className="mt-5">&copy;2024 Robusoft Limited</p>
     </section>
   );
 }
