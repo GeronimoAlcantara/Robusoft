@@ -13,7 +13,7 @@ function About() {
                     <div className="row">
                         <div className="col">
                             <p>Robusoft Limited was founded in 2021 when me and my wife decided to go independent and unlock our full potential as a team</p>                        
-                            <p>We have a combined 50 years of IT experience encompassing the entire SDLC from analysis and design to development, QA, deployment and ongoing production support</p>
+                            <p>We have a combined 50 years of IT experience encompassing the entire Software Development Life Cycle (SDLC) from requirements gathering, analysis and design to development, QA, deployment and ongoing production support</p>
                             <p>We have been exposed to different technologies along the way with the most recent being microservices, Azure cloud and Snowflake.</p>
                         </div>
                         <div className="col">
