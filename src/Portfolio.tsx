@@ -11,10 +11,10 @@ function Portfolio() {
                     <h6 className="title mb-3">Our Diverse Portfolio of Excellence.</h6>
                     <p>We specialise in enterprise applications having worked on projects in the following business sectors:</p>
                     <ul className="my-list">
-                        <li>Financial - Citi, Prudential</li>
-                        <li>Real Estate - Wells Fargo</li>
+                        <li>Financial - Citi, Prudential, American Express</li>
+                        <li>Real Estate - Aspen Grove Solutions / Wells Fargo</li>
                         <li>Health Insurance - United Health Group, CareFirst</li>
-                        <li>Telecommunications - TELUS</li>
+                        <li>Telecommunications - Equicom / TELUS</li>
                         <li>Airlines - Northwest / Delta</li>
                         <li>Trading / Pricing - Prudential, ESB, Electric Ireland</li>
                         <li>Consultancy - Accenture, Avanade, TCS, SVI</li>

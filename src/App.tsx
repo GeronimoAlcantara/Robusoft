@@ -21,7 +21,7 @@ function App() {
       >
         <div className="container">
           <a className="navbar-brand" href="https://geronimoalcantara.github.io/Robusoft/">
-            <strong className="text-primary">ROBUSOFT</strong>{" "}
+          <strong className="text-primary">ROBUSOFT</strong>{" "}
           </a>
           <button
             onClick={hideNavbar}
