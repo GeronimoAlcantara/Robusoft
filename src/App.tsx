@@ -5,10 +5,14 @@ import "react-toastify/dist/ReactToastify.css";
 
 function App() {
   let toggleMe = false;
+  let initialClick = true;
   const [isActive, setIsActive] = useState<boolean>(toggleMe);
 
   function hideNavbar(event: any): void {
-    setIsActive((toggleMe) => !toggleMe);
+    if (initialClick)
+      setIsActive((toggleMe) => !toggleMe);
+    else
+      initialClick = false;
   }
 
   return (
