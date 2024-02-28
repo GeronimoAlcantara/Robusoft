@@ -11,17 +11,13 @@ function Link() {
       <div className="container">
         <h1>Links</h1>
         <a 
-          href="https://ie.linkedin.com/in/geronimo-alcantara-81ab0465"
+          href="https://www.linkedin.com/company/robusoft/about/?viewAsMember=true"
           target="_blank"
           rel="noreferrer"
         >
-          <img
-            src={linkedin}
-            style={{ width: '300px', height: '150px' }}
-            alt="linkedin icon"
-          />
+          <i className="ti-linkedin"></i>
         </a>
-        <h4><i className="ti-download"></i> <a href={cv_url} download="cv.docx">Download CV</a></h4>
+        {/* <h4><i className="ti-download"></i> <a href={cv_url} download="cv.docx">Download CV</a></h4> */}
       </div>
       <p className="mt-5">&copy;2024 Robusoft Limited</p>
     </section>
