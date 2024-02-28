@@ -7,10 +7,19 @@ function App() {
   let toggleMe = false;
   let [isActive, setIsActive] = useState<boolean>(toggleMe);
   isActive = false;
+  let phoneSize = false;
+  
+  if (window.screen.availWidth > 767)
+    phoneSize = false;
+  else
+    phoneSize = true;
 
   function hideNavbar(event: any): void {
     setIsActive((toggleMe) => !toggleMe);
   }
+
+  function showNavbar(event: any): void {
+  }  
 
   return (
     <div className="App">
@@ -41,7 +50,9 @@ function App() {
 
           <div
             onClick={
-              hideNavbar
+              phoneSize
+              ? hideNavbar
+              : showNavbar
             }
             className={
               isActive

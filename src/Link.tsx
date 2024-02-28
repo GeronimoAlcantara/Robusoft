@@ -15,7 +15,7 @@ function Link() {
           target="_blank"
           rel="noreferrer"
         />
-        &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;        
+        &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
         <SocialIcon 
           network="email"
           href="mailto:galcantarajr@yahoo.com" 
