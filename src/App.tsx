@@ -5,14 +5,11 @@ import "react-toastify/dist/ReactToastify.css";
 
 function App() {
   let toggleMe = false;
-  let initialClick = true;
-  const [isActive, setIsActive] = useState<boolean>(toggleMe);
+  let [isActive, setIsActive] = useState<boolean>(toggleMe);
+  isActive = false;
 
   function hideNavbar(event: any): void {
-    if (initialClick)
-      setIsActive((toggleMe) => !toggleMe);
-    else
-      initialClick = false;
+    setIsActive((toggleMe) => !toggleMe);
   }
 
   return (
@@ -28,7 +25,9 @@ function App() {
           <strong className="text-primary">ROBUSOFT</strong>{" "}
           </a>
           <button
-            onClick={hideNavbar}
+            onClick={
+              hideNavbar
+            }
             className="navbar-toggler"
             type="button"
             data-toggle="collapse"
@@ -41,7 +40,9 @@ function App() {
           </button>
 
           <div
-            onClick={hideNavbar}
+            onClick={
+              hideNavbar
+            }
             className={
               isActive
                 ? "collapse navbar-collapse show"
