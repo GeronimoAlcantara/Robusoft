@@ -1,6 +1,4 @@
-import React from "react";
 import "./App.css";
-import linkedin from "./images/linkedin.jpeg";
 
 function Link() {
 
