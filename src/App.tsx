@@ -8,13 +8,14 @@ function App() {
   let [isActive, setIsActive] = useState<boolean>(toggleMe);
   isActive = false;
   let phoneSize = false;
-  
+
   if (window.screen.availWidth > 767)
     phoneSize = false;
   else
     phoneSize = true;
 
   function hideNavbar(event: any): void {
+    event.preventDefault();
     setIsActive((toggleMe) => !toggleMe);
   }
 
