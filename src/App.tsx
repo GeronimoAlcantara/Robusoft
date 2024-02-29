@@ -15,7 +15,6 @@ function App() {
     phoneSize = true;
 
   function hideNavbar(event: any): void {
-    event.preventDefault();
     setIsActive((toggleMe) => !toggleMe);
   }
 

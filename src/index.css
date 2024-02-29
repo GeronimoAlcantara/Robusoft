@@ -4792,6 +4792,7 @@ input[type="button"].btn-block {
   .navbar-expand-md .navbar-toggler {
     display: none;
   }
+  .navbar-expand-md .navbar-collapse { height: auto !important; }
 }
 
 @media (max-width: 991.98px) {
