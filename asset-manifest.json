@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Robusoft/static/css/main.84d95334.css",
-    "main.js": "/Robusoft/static/js/main.5b2dad4e.js",
-    "static/js/787.d78a0d84.chunk.js": "/Robusoft/static/js/787.d78a0d84.chunk.js",
-    "static/media/dublin.png": "/Robusoft/static/media/dublin.22106c4ace8026b3805c.png",
-    "static/media/services.png": "/Robusoft/static/media/services.a2a7d200114d6bb27cd6.png",
-    "static/media/img-2.png": "/Robusoft/static/media/img-2.d078105866769f101e36.png",
-    "static/media/img-1.png": "/Robusoft/static/media/img-1.284c2a3cf3f5990e7951.png",
-    "static/media/header.jpg": "/Robusoft/static/media/header.e9dfbca2072f11793777.jpg",
-    "static/media/bg-img-1.jpg": "/Robusoft/static/media/bg-img-1.be529fe63dee35e140b9.jpg",
-    "static/media/robu-icon.jpg": "/Robusoft/static/media/robu-icon.05fb6362ae2e759b12bc.jpg",
-    "index.html": "/Robusoft/index.html",
-    "main.84d95334.css.map": "/Robusoft/static/css/main.84d95334.css.map",
-    "main.5b2dad4e.js.map": "/Robusoft/static/js/main.5b2dad4e.js.map",
-    "787.d78a0d84.chunk.js.map": "/Robusoft/static/js/787.d78a0d84.chunk.js.map"
+    "main.css": "/static/css/main.a130f233.css",
+    "main.js": "/static/js/main.322ee465.js",
+    "static/js/787.d78a0d84.chunk.js": "/static/js/787.d78a0d84.chunk.js",
+    "static/media/dublin.png": "/static/media/dublin.22106c4ace8026b3805c.png",
+    "static/media/services.png": "/static/media/services.a2a7d200114d6bb27cd6.png",
+    "static/media/img-2.png": "/static/media/img-2.d078105866769f101e36.png",
+    "static/media/img-1.png": "/static/media/img-1.284c2a3cf3f5990e7951.png",
+    "static/media/header.jpg": "/static/media/header.e9dfbca2072f11793777.jpg",
+    "static/media/bg-img-1.jpg": "/static/media/bg-img-1.be529fe63dee35e140b9.jpg",
+    "static/media/robu-icon.jpg": "/static/media/robu-icon.05fb6362ae2e759b12bc.jpg",
+    "index.html": "/index.html",
+    "main.a130f233.css.map": "/static/css/main.a130f233.css.map",
+    "main.322ee465.js.map": "/static/js/main.322ee465.js.map",
+    "787.d78a0d84.chunk.js.map": "/static/js/787.d78a0d84.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.84d95334.css",
-    "static/js/main.5b2dad4e.js"
+    "static/css/main.a130f233.css",
+    "static/js/main.322ee465.js"
   ]
 }
