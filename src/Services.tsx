@@ -32,7 +32,7 @@ function Services() {
                 <h6>Data Warehousing</h6>
                 <p>
                 Unlock the full potential of your data with our advanced data warehousing solutions. 
-                We design and develop robust data warehouses that consolidate and organize your information for efficient analysis and decision-making
+                We design and develop robust data warehouses that consolidate and organize your information for efficient analysis and decision-making.
                 </p>
                 <h6>
                 Desktop Apps

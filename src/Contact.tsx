@@ -52,7 +52,6 @@ function Contact() {
         </p>
         <span><i className="ti-mobile"></i> +353 74 917 7530</span><br/>
         <span><i className="ti-mobile"></i> +353 85 873 0099</span><br/>
-        <span><i className="ti-email"></i> <a href="mailto:galcantarajr@yahoo.com">galcantarajr@yahoo.com</a></span><br/>
         <span><i className="ti-home"></i> Ireland Head Office</span>
         <p> Letterkenny, Co. Donegal, Ireland</p>
         <form

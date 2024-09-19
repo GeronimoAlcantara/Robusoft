@@ -18,7 +18,7 @@ function Link() {
         &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
         <SocialIcon 
           network="email"
-          href="mailto:galcantarajr@yahoo.com" 
+          href="mailto:geronimo.alcantara@robusoft.co" 
         />
       </div>
       <p className="mt-5">&copy;2024 Robusoft Limited</p>
