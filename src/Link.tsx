@@ -21,7 +21,7 @@ function Link() {
           href="mailto:geronimo.alcantara@robusoft.co" 
         />
       </div>
-      <p className="mt-5">&copy;2024 Robusoft Limited</p>
+      <p className="mt-5">&copy;2025 Robusoft Limited</p>
     </section>
   );
 }

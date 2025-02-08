@@ -51,7 +51,7 @@ function Contact() {
           <br />
         </p>
         <span><i className="ti-mobile"></i> +353 74 917 7530</span><br/>
-        <span><i className="ti-mobile"></i> +353 85 873 0099</span><br/>
+        <span><i className="ti-mobile"></i> +353 83 836 5170</span><br/>
         <span><i className="ti-home"></i> Ireland Head Office</span>
         <p> Letterkenny, Co. Donegal, Ireland</p>
         <form
