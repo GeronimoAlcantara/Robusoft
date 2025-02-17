@@ -29,11 +29,6 @@ function Services() {
               <p>We excel in crafting secure and user-friendly web applications tailored to your specific requirements. Whether you need a responsive website, an e-commerce platform, or a complex web portal, we combine our technical prowess with creativity to deliver engaging and scalable solutions that drive your online presence forward.</p>
               <h6>Cloud Technologies</h6>
                 <p>Embrace the power of the cloud with our comprehensive cloud services. We offer expert guidance and implementation strategies to migrate your infrastructure, applications, and data to secure and scalable cloud platforms. </p>
-                <h6>Data Warehousing</h6>
-                <p>
-                Unlock the full potential of your data with our advanced data warehousing solutions. 
-                We design and develop robust data warehouses that consolidate and organize your information for efficient analysis and decision-making.
-                </p>
                 <h6>
                 Desktop Apps
                 </h6>
