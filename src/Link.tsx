@@ -20,8 +20,8 @@ function Link() {
           network="email"
           href="mailto:galcantarajr@yahoo.com" 
         />
-      </div>67uuuuuuuuuuuuyjh
-      <p className="mt-5">&co\py;2025 Robusoft Limited</p>
+      </div>
+      <p className="mt-5">&copy;2025 Robusoft Limited</p>
     </section>
   );
 }
