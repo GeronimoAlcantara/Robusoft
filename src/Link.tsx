@@ -18,10 +18,10 @@ function Link() {
         &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
         <SocialIcon 
           network="email"
-          href="mailto:geronimo.alcantara@robusoft.co" 
+          href="mailto:galcantarajr@yahoo.com" 
         />
-      </div>
-      <p className="mt-5">&copy;2025 Robusoft Limited</p>
+      </div>67uuuuuuuuuuuuyjh
+      <p className="mt-5">&co\py;2025 Robusoft Limited</p>
     </section>
   );
 }
